@@ -44,7 +44,7 @@
           <i class="el-icon-menu"></i>
         </el-header>
         <el-main><Nuxt /></el-main>
-        <el-footer>Footer</el-footer>
+        <el-footer><p class="text-center">hhihi</p></el-footer>
       </el-container>
     </el-container>
   </el-container>
